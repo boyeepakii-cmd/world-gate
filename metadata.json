@@ -1,0 +1,6 @@
+{
+  "name": "WORLD GATE — Universal AI Immigration & Airport Security System",
+  "description": "Proposed international visa, biometric identity verification, security bond ledger, and connected airport immigration platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
